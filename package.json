@@ -1,0 +1,28 @@
+{
+  "name": "nodejstoturial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DatWithTheWorld/Nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "DatWithTheWorld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DatWithTheWorld/Nodejs/issues"
+  },
+  "homepage": "https://github.com/DatWithTheWorld/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
